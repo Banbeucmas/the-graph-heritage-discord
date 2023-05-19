@@ -14,3 +14,7 @@ You are strictly prohibited to use The Graph Heritage against the ToS of discord
 * Access to all or specific features of The Graph Heritage may be revoked, for all or a specific user, at any time.
 * User might request the removal of personal data out of The Graph Heritage in exchange for the usage of The Graph Heritage as a service
 * We have the rights to update terms of service anytime with a notice in the support server.
+
+# Support
+
+Further questions or support can be contacted through banbeucams@gmail.com
