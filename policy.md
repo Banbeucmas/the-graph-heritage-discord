@@ -10,6 +10,8 @@ We collect and store the following information when you use our Bot:
 
 - Discord Guild Information: We collect information related to Discord guilds to improve our services and provide a better user experience. This information may include the name of the guild, its unique identifier, member counts, and other related data.
 
+- User Message content: We collect specific user messages that trigger the program for logging purposes. Data are used to identify errors and improve user experiences.
+
 Please note that we do not collect or store any personally identifiable information (PII), such as your name, address, email address, or any other information that directly identifies you.
 
 ## How We Use Collected Information
